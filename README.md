@@ -13,11 +13,11 @@ Language elements:
  
 List of actions that can be performed with the pointer:
 
-1. `>` ("more") Move one cell to the right. If the current cell is numbered 29999, the pointer will be on the null cell.
+1. `>` (more) Move one cell to the right. If the current cell is numbered 29999, the pointer will be on the null cell.
 
-2. `<` ("less") Move one cell to the left. If current cell is the null cell, the pointer will be on the cell numbered 29999.
+2. `<` (less) Move one cell to the left. If current cell is the null cell, the pointer will be on the cell numbered 29999.
 
-3. `|` ("vertical bar") Move pointer to the null cell.
+3. `|` (vertical bar) Move pointer to the null cell.
 
 
 List of actions that can make a pointer to the current cell:
